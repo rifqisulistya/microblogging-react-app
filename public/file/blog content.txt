@@ -1,0 +1,130 @@
+blog content
+
+<div class="row">
+				<div class="col-3 menu">
+				
+				</div>
+				
+				<div class="col-6 unem">
+					<div class="blog-post">
+						<h2 class="blog-post-title">Sample blog post</h2> <br>
+						<img class="card-img-top" src="file/2.jpg" alt="Card image cap">
+						<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+
+						<p>This blog post shows a few different types of content that's supported and styled with Bootstrap. Basic typography, images, and code are all supported.</p>
+						<hr>
+						<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+						<blockquote>
+						  <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						</blockquote>
+						<p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+						<h2>Heading</h2>
+						<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+						<h3>Sub-heading</h3>
+						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+						<pre><code>Example code block</code></pre>
+						<p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
+						<h3>Sub-heading</h3>
+						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+						<ul>
+						  <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+						  <li>Donec id elit non mi porta gravida at eget metus.</li>
+						  <li>Nulla vitae elit libero, a pharetra augue.</li>
+						</ul>
+						<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
+						<ol>
+						  <li>Vestibulum id ligula porta felis euismod semper.</li>
+						  <li>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+						  <li>Maecenas sed diam eget risus varius blandit sit amet non magna.</li>
+						</ol>
+						<p>Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.</p>
+					  </div><!-- /.blog-post --> <hr>
+
+					  <div class="blog-post">
+						<h2 class="blog-post-title">Another blog post</h2>
+						<p class="blog-post-meta">December 23, 2013 by <a href="#">Jacob</a></p>
+
+						<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+						<blockquote>
+						  <p>Curabitur blandit tempus porttitor. <strong>Nullam quis risus eget urna mollis</strong> ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+						</blockquote>
+						<p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+						<p>Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.</p>
+					  </div><!-- /.blog-post -->
+
+					  <div class="blog-post">
+						<h2 class="blog-post-title">New feature</h2>
+						<p class="blog-post-meta">December 14, 2013 by <a href="#">Chris</a></p>
+
+						<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+						<ul>
+						  <li>Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</li>
+						  <li>Donec id elit non mi porta gravida at eget metus.</li>
+						  <li>Nulla vitae elit libero, a pharetra augue.</li>
+						</ul>
+						<p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+						<p>Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.</p>
+					  </div><!-- /.blog-post -->
+
+					  <nav class="blog-pagination">
+						<a class="btn btn-outline-primary" href="#">Older</a>
+						<a class="btn btn-outline-secondary disabled" href="#">Newer</a>
+					  </nav>
+
+				<!-- /.blog-main -->
+				<br> <br> <br> <br>
+					<ul>
+						<li>
+						Rifqi Fajar Sulistya
+						</li>
+					</ul> 
+					<p>An intrapreneur and community manager of @suarsocial. 
+					Striving for independency in all aspects of life. 
+					Really interested in community management, operation research, 
+					data science, content creating, portfolio management & blockchain. Show your work and be the best version of yourself.
+					</p>
+					
+					<ul>
+						<li>
+						Experience
+						</li>
+					</ul>
+					<p> <b> suarsocial Community Manager (Sep 2017 - Oct 2018) </b> <br>
+					SUAR is a smart collaboration channels for storytellers to build brand engagement & 
+					trust with blockchain technology with vision to build tech-based society. 
+					Currently develope and activate suarcommunity together to create new opportunity and 
+					video project initiation to build best ecosystem of producer and content creator. <br>
+					Follow our social media on IG: @suarmedia and Youtube: suarmedia. <br>
+					Visit our landing page on suar.social <br>
+					</p>
+					<p> <b> IYMDS Operation Manager (Jun 2017 - Oct 2017) </b> <br>
+					Indonesian Youth Marine Debris Summit (IYMDS) is a youth training and development program which collects 70 young leaders across the country and work on marine debris issues. Each participant will be flown to Jakarta and represent their home province. The curriculum model is shaped to increase the understanding of marine debris as an environmental challenge while also gain skills in project management and social media engagement. Agenda is composed of workshops by local and global speakers, field trip consists of diving or snorkeling in Kepulauan Seribu, and action plan for the following year which becomes the true solution in solving marine debris issues. ​
+					</p>
+					<p>	<b> General Secretary of HIMATIKA ITB (May 2014 - Mar 2015) </b> <br> 
+					Manage Administration, Treasurer, Information & Human Resources.						
+					</p>
+					<ul>
+						<li>
+						Education
+						</li>
+					</ul>
+					<p>
+					<b>Mathematics ITB 2011-2017</b><br>
+					Applied Math, Operasional Research, Final Assignment: Aircraft Routing Optimization with Maintenance Constraint
+					<br> <br>
+					<b>SMA Negeri 3 Bandung 2008-2011</b><br>
+					Natural Science <br><br>
+					<b>SMP Istiqamah Bandung 2005-2008</b><br><br>
+					<b>SD Istiqamah Bandung 1999-2005</b>
+					</p>
+					<ul>
+						<li>
+						Volunteer Experience
+						</li>
+					</ul>
+					<p>
+					<b>Community Service IKAHIMATIKA Wilayah 3 (May 2013 - Oct 2013)</b><br><br>
+					<b>Community Service HIMATIKA ITB (Nov 2012 - Feb 2014)</b><br><br>			
+					</p>
+				</div>
+			</div>
