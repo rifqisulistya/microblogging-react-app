@@ -22,7 +22,7 @@ class Navbar extends React.Component {
 							<a class="nav-link" href="#profile">Profile</a>
 						</li>
 						<li class="nav-item">
-							<a class="nav-link" href="#aboutme">About Me</a>
+							<a class="nav-link" href="#aboutme">About Me</a> 
 						</li>
 						<li class="nav-item">
 							<Navlink to="/microblogging">Microblogging</Navlink>
