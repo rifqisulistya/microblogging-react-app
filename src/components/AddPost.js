@@ -13,13 +13,13 @@ class AddPost extends Component {
         this.props.addPost(post);
         this.blogPost.value = "";
         this.blogPost.placeholder = "What are you doing?";
-    }
-
+	}
+	
     render() {
         return (
             <form onSubmit={(e) => this.addNewPost(e)}>
                 <p><textarea ref={(input) => this.blogPost = input} placeholder="What are you doing?">
-                </textarea><br />
+				</textarea><br />
                     <button type="submit">Post</button>
                 </p>
 
@@ -30,3 +30,4 @@ class AddPost extends Component {
 
 export default AddPost;
 
+	

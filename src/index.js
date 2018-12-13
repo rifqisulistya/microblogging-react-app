@@ -5,12 +5,13 @@ import App from './App';
 import Microblogging from './Microblogging'
 import * as serviceWorker from './serviceWorker';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import { Router, Route, hashHistory } from 'react-router'
+import { Router, Route, browserHistory } from 'react-router'
 import About from './components/About'
 import Repos from './components/Repos'
 
+
 var RouterApp = (
-	<Router history={hashHistory}>
+	<Router history={browserHistory}>
 		<Route path="/" component={App}>
 		</Route>
 		<Route path="/microblogging" component={Microblogging}>

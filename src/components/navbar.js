@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router'
 import Navlink from './navlink'
 
 class Navbar extends React.Component {
@@ -16,13 +15,7 @@ class Navbar extends React.Component {
 				<div class="collapse navbar-collapse" id="navbarCollapse">
 					<ul class="navbar-nav mr-auto">
 						<li class="nav-item">
-							<a class="nav-link" href="#">Home</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#profile">Profile</a>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="#aboutme">About Me</a> 
+							<a class="nav-link" href="/">Home</a>
 						</li>
 						<li class="nav-item">
 							<Navlink to="/microblogging">Microblogging</Navlink>

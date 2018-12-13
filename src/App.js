@@ -7,7 +7,9 @@ import Profilee from './components/profilee';
 import Carousel from './components/carousel';
 import Navbar from './components/navbar';
 import Subscribe from './components/subscribe';
-import './grid.css';
+{/* import Gallery from './components/gallery'; */}
+
+
 
 
 
@@ -15,15 +17,11 @@ class App extends Component {
   render() {
     return (
 		<div className="App">
-
-        <header className="App-header">
-          <Navbar/>
-        </header>		
-
-
+			<Navbar/>
 			<Carousel/>
 			<Profilee/>
 			<Subscribe/>
+			{/* <Gallery/> */}
 		</div>
 		
     );

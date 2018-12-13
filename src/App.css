@@ -30,3 +30,51 @@
     transform: rotate(360deg);
   }
 }
+
+.sidebar {
+  border: 1px solid #D1D1D1;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+
+.profile-info, #testing {
+  text-align: center;
+}
+
+.content p {
+  text-align: left;
+}
+
+.profile-info img{
+  width: 150px;
+  border-radius: 5px;
+  
+}
+
+p.date {
+  font-size: 0.8em;
+  color: #999;
+  margin-top: 0px;
+}
+
+p.author {
+  font-size: 0.8em;
+  margin-top: 0px;
+  font-weight: bold;
+}
+
+p.footer {
+  text-align: right;
+  font-size: 0.8em;
+}
+
+p img {
+  width: 50px;
+  border-radius: 50%;
+  
+}
+
+p {
+  margin-bottom: 5px;
+}

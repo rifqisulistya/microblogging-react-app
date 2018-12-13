@@ -17,7 +17,7 @@ class Carousel extends React.Component {
 						<img class="first-slide" src="./file/basket.jpg" alt="First slide"/>
 						<div class="container">
 							<div class="carousel-caption text-left">
-								<h1>Independence Striver.</h1>
+								<h1>Independent Striver.</h1>
 								<p>Striving for independency in all aspects of life.</p>
 								<p><a class="btn btn-lg btn-primary" href="#subscribe" role="button">Subscribe now</a></p>
 							</div>

@@ -4,10 +4,18 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
+    "get-urls": "^8.0.0",
+    "grabity": "^1.0.4",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-hashtag": "^2.1.1",
+    "react-hashtags": "^1.0.7",
+    "react-native-thumbnail-video": "^0.1.1",
     "react-router": "3.2.0",
-    "react-scripts": "2.1.1"
+    "react-router-dom": "^4.3.1",
+    "react-router-hash-link": "^1.2.1",
+    "react-scripts": "2.1.1",
+    "url-regex": "^4.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
